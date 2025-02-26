@@ -8,7 +8,6 @@ AnanthNews is a web application that provides users with the latest news headlin
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [NewsAPI Key](#newsapi-key)
 
 ## Features
 
